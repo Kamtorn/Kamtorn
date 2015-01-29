@@ -1,3 +1,3 @@
 # Resume
-1. Name Kamtorn
+* Name Kamtorn
 Laornakorn
