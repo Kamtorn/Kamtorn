@@ -1,3 +1,2 @@
 # Resume
-* Name Kamtorn
-Laornakorn
+* Name Kamtorn    Surname Laornakorn
